@@ -16,7 +16,7 @@ Capturing image2 of the hand
 
 Object detection by the tensoflow lib AI model
 
-![Project SnapShot](https://github.com/ShazzAbhishek/TensorFlowObjectDetection/blob/main/ScreenShots/phototest.jpg)
+![Project SnapShot](https://github.com/ShazzAbhishek/TensorFlowObjectDetection/blob/main/ScreenShots/phototest.png)
 
 
 
