@@ -6,4 +6,6 @@ SSD Mobile v2 FPNLite 320*320 model is selected with speed and mean average prec
 
 # TF Records helps speed up training the object detection model
 
+![Project SnapShot](https://github.com/ShazzAbhishek/TensorFlowObjectDetection/blob/main/ScreenShots/photo1.jpg)
+
 
