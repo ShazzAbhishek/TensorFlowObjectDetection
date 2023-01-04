@@ -1,4 +1,4 @@
-# TensorFlowObjectDetection opencv,tensor flow2,model zoo 
+# Tensor Flow Object Detection opencv,tensorflow2,model zoo 
 This model detects human hand symbol in real time 
 
 TensorFlow 2 Detection Model Zoo is used as a pretrained model
